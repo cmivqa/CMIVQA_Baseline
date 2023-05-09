@@ -48,8 +48,9 @@
 ```
 
 ### 官方微信群
+请添加微信好友拉群
 <p align="center">
-  <img src="./task1/image/4D8AA563-22C4-4CFD-94B4-ED27F1F11276.jpeg" alt="cmivqa" width="45%" height="45%">
+  <img src="./task1/image/wechat.jpg" alt="cmivqa" width="25%" height="25%">
 </p>
 
 ### 祝你在CMIVQA比赛中取得好成绩！🏆🎉
